@@ -1,4 +1,4 @@
-# ** Documentation**
+# Documentation
 
 ## **1. Kickoff and Planning**
 - **Initial Meeting:**
