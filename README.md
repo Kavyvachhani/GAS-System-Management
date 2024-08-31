@@ -1,141 +1,83 @@
-Here's an improved design for your Project Management Documentation:
+# **Project Details**
+
+## **Running Projects**
+
+### **1. Pipemart Project**
+- **Timeline:** To be fully completed by **20th September**.
+- **Objective:**
+  - Finalize the Pipemart project.
+  - Ensure all features are fully documented and ready for deployment.
+- **Team:**
+  - **Manager:** Nahar
+  - **Developers:** Parag
+
+### **2. Strapi Project**
+- **Timeline:** Complete 50% of the Strapi project by **20th September**.
+- **Objective:**
+  - Work on the Strapi integration and documentation.
+  - Focus on completing 50% of the project, detailing content management and initial API structures.
+- **Team:**
+  - **Manager:** Nahar
+  - **Developers:** Parag
 
 ---
 
-# **Project Management Documentation**
+## **Project Under Exploration**
 
-## **1. Project Overview**
-- **Project Name:** `[Enter Project Name]`
-- **Client Name:** `[Enter Client Name]`
-- **Start Date:** `[Enter Start Date]`
-- **Completion Date:** `[Enter Expected Completion Date]`
-
----
-
-## **2. Team Roles and Responsibilities**
-
-### **Project Manager**
-- **Name:** `[Enter Name]`
-- **Responsibilities:**  
-  - Oversee the project.
-  - Manage timelines.
-  - Coordinate between teams.
-
-### **Frontend Developer**
-- **Name:** `[Enter Name]`
-- **Responsibilities:**  
-  - Develop user interfaces.
-  - Ensure responsiveness.
-
-### **Backend Developer**
-- **Name:** `[Enter Name]`
-- **Responsibilities:**  
-  - Develop server-side logic.
-  - Manage APIs.
-
-### **UI/UX Designer**
-- **Name:** `[Enter Name]`
-- **Responsibilities:**  
-  - Design user interfaces.
-  - Create wireframes and prototypes.
-
-### **QA Engineer**
-- **Name:** `[Enter Name]`
-- **Responsibilities:**  
-  - Test the application.
-  - Ensure quality and performance.
+### **1. Ezeefund Project**
+- **Timeline:** Exploration and documentation to be completed by **20th September**.
+- **Objective:**
+  - Understand the specific needs and requirements of the Ezeefund project.
+  - Develop a tailored document that aligns with their business objectives and product goals.
+- **Tasks:**
+  - Complete the exploration and finalize the document by the given date.
+  - Review the document with the client.
+- **Team:**
+  - **Manager:** Nahar
+  - **Documentation:** Samarth, [New Intern]
 
 ---
 
-## **3. Cost Breakdown**
+## **Pending Confirmation**
 
-### **Team Member Costs**
-- **Frontend Developer:** `$[Enter Cost]` per hour/month
-- **Backend Developer:** `$[Enter Cost]` per hour/month
-- **UI/UX Designer:** `$[Enter Cost]` per hour/month
-- **QA Engineer:** `$[Enter Cost]` per hour/month
-
-### **Domain and Hosting Costs**
-- **Domain Name:** `$[Enter Cost]` per year
-- **Web Hosting:**
-  - Basic Hosting: `$[Enter Cost]` per month
-  - Premium Hosting: `$[Enter Cost]` per month
-
-### **Third-Party APIs and Services**
-- **API Usage (e.g., Payment Gateway):** `$[Enter Cost]` per transaction/month
-- **Cloud Storage (e.g., AWS S3):** `$[Enter Cost]` per GB/month
-- **Email Service (e.g., SendGrid):** `$[Enter Cost]` per email/month
+### **1. Gas System Project**
+- **Timeline:** Documentation and Figma prototype to be completed by **20th September** (if confirmed).
+- **Objective:**
+  - Develop a detailed project document covering all aspects of the gas system.
+  - Create a Figma prototype that visualizes the user flow and design.
+- **Contingency:** Await client confirmation to proceed with documentation and prototype development.
+- **Team:**
+  - **Manager:** Nahar
+  - **Figma and Documentation:** Samarth, [New Intern]
 
 ---
 
-## **4. Total Cost**
-- **Total Development Cost:** `$[Enter Total Development Cost]`
-- **Total Domain and Hosting Cost:** `$[Enter Total Domain and Hosting Cost]`
-- **Total Third-Party API Cost:** `$[Enter Total Third-Party API Cost]`
-- **Overall Project Cost:** `$[Enter Total Cost]` (Sum of all costs)
+## **Internal Products (EricHost)**
 
----
+### **1. ATS Product Documentation**
+- **Objective:**
+  - Conduct a thorough exploration of the ATS (Applicant Tracking System) product.
+  - Create detailed documentation outlining functionalities, user flows, and technical specifications.
+- **Tasks:**
+  - **24th - 25th August:** Plan the next 7 days for this project.
+  - **31st August:** Review the documentation and make necessary updates.
+  - **1st September:** Create the next 7-day plan based on current progress.
+- **Team:**
+  - **Managers:** Nahar, Samarth
+  - **Machine Learning:** Nihar
+  - **UI:** Sandeep
+  - **Documentation:** [New Intern]
+- **Daily Standup:** Samarth will lead the daily standup meetings.
 
-## **5. Maintenance and Support**
-- **Maintenance Period:** `[Enter Maintenance Period]`
-- **Maintenance Charges:** `$[Enter Maintenance Charges]` per month/quarter/year
-- **Support Contact:** `[Enter Support Contact Information]`
-
----
-
-## **6. Documentation and Deliverables**
-- **Project Documentation:** `[Link to Documentation or Storage Location]`
-- **Final Deliverables:** `[List of Final Deliverables]`
-
----
-
-## **7. Additional Notes**
-- **Special Considerations:** `[Enter any Special Considerations or Additional Notes related to the Project]`
-
----
-
-**Example**
-
-- **Project Name:** E-Commerce Website Redesign
-- **Client Name:** ABC Corp
-- **Start Date:** August 1, 2024
-- **Completion Date:** October 1, 2024
-
-### **Team Roles and Responsibilities**
-- **Project Manager:** John Doe
-- **Frontend Developer:** Jane Smith
-- **Backend Developer:** Mike Johnson
-- **UI/UX Designer:** Emily Davis
-- **QA Engineer:** Sarah Brown
-
-### **Cost Breakdown**
-- **Frontend Developer:** $50/hour
-- **Backend Developer:** $60/hour
-- **UI/UX Designer:** $55/hour
-- **QA Engineer:** $45/hour
-- **Domain Name:** $15/year
-- **Basic Hosting:** $30/month
-- **Payment Gateway API:** $0.30/transaction
-- **Cloud Storage (AWS S3):** $0.023/GB/month
-
-### **Total Cost**
-- **Total Development Cost:** $15,000
-- **Total Domain and Hosting Cost:** $435
-- **Total Third-Party API Cost:** $500
-- **Overall Project Cost:** $15,935
-
-### **Maintenance and Support**
-- **Maintenance Period:** 6 months post-launch
-- **Maintenance Charges:** $200/month
-- **Support Contact:** support@abc-corp.com
-
-### **Documentation and Deliverables**
-- **Project Documentation:** [Google Drive Link]
-- **Final Deliverables:** Website files, design assets, user guides
-
-### **Additional Notes**
-- **Special Considerations:** Integration with existing CRM system
-
----
-
-This structure adds clarity, separation, and a clean visual hierarchy, making the document easier to navigate and understand.
+### **2. OVH Flow Documentation**
+- **Objective:**
+  - Complete documentation of the OVH workflow, providing necessary details for seamless implementation and future reference.
+- **Tasks:**
+  - **24th - 25th August:** Plan the next 7 days for this project.
+  - **31st August:** Review the documentation and make necessary updates.
+  - **1st September:** Create the next 7-day plan based on current progress.
+- **Team:**
+  - **Managers:** Nahar, Samarth
+  - **Intern (PHP):** Vijay
+  - **Documentation:** [New Intern]
+- **Daily Standup:** Samarth will lead the daily standup meetings.
