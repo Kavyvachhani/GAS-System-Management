@@ -1,83 +1,104 @@
-# **Project Details**
+# ** Documentation**
 
-## **Running Projects**
+## **1. Kickoff and Planning**
+- **Initial Meeting:**
+  - **Purpose:** To set the stage for the project by understanding client goals, discussing deliverables, and establishing expectations.
+  - **Tools:** Use video conferencing tools like Zoom or Google Meet.
+- **Define Scope:**
+  - **Purpose:** To outline what will be covered in the project, including objectives, deliverables, and timelines.
+  - **Tools:** Document the scope in collaborative documents using Google Docs.
 
-### **1. Pipemart Project**
-- **Timeline:** To be fully completed by **20th September**.
-- **Objective:**
-  - Finalize the Pipemart project.
-  - Ensure all features are fully documented and ready for deployment.
-- **Team:**
-  - **Manager:** Nahar
-  - **Developers:** Parag
+## **2. Gathering Information**
+- **Client Requirements:**
+  - **Purpose:** To gather detailed information on what the client needs for the project.
+  - **Tools:** Use Google Forms to create forms that collect information such as:
+    - Project Name
+    - Project Details
+    - Target Platforms (iOS, Android, Web)
+    - Key Features
+    - Technology Preferences
+    - Existing Documentation/References
+- **Research and Analysis:**
+  - **Purpose:** To document findings from research related to the client’s needs and industry.
+  - **Tools:** Use Google Docs to keep track of research and analysis.
 
-### **2. Strapi Project**
-- **Timeline:** Complete 50% of the Strapi project by **20th September**.
-- **Objective:**
-  - Work on the Strapi integration and documentation.
-  - Focus on completing 50% of the project, detailing content management and initial API structures.
-- **Team:**
-  - **Manager:** Nahar
-  - **Developers:** Parag
+## **3. Creating Documentation**
+- **Documentation Outline:**
+  - **Purpose:** To plan the structure of the documentation, ensuring all necessary sections are covered.
+  - **Tools:** Outline the structure in Google Sheets.
+- **Detailed Documentation:**
+  - **Purpose:** To provide detailed descriptions, functional requirements, and technical specifications.
+  - **Tools:** Write the documentation using Google Docs or Microsoft Word.
+- **Visuals and Flowcharts:**
+  - **Purpose:** To create visual aids like flowcharts, diagrams, and wireframes that help in understanding processes and designs.
+  - **Tools:** Use Lucidchart, Draw.io, or Figma.
+
+## **4. Price Discussion**
+- **Initial Pricing:**
+  - **Purpose:** To discuss preliminary pricing based on the project scope and requirements.
+  - **Tools:** Use Google Docs or Excel for drafting pricing proposals and sharing them with the client.
+- **Negotiation:**
+  - **Purpose:** To negotiate final pricing and terms with the client.
+  - **Tools:** Track negotiation details and updates in Jira or Excel.
+- **Final Agreement:**
+  - **Purpose:** To finalize and document agreed pricing and terms.
+  - **Tools:** Document the final agreement using Google Docs or Microsoft Word.
+
+## **5. Review and Feedback**
+- **Internal Review:**
+  - **Purpose:** To review the documentation internally, gather comments, and make necessary changes.
+  - **Tools:** Use Google Docs for collaborative review and editing.
+- **Client Feedback:**
+  - **Purpose:** To obtain the client’s feedback on the documentation and ensure it meets their needs.
+  - **Tools:** Collect feedback via Google Forms or Email.
+
+## **6. Finalization**
+- **Incorporate Feedback:**
+  - **Purpose:** To update the documentation based on the feedback received from the client.
+  - **Tools:** Make changes using Google Docs or Microsoft Word.
+- **Approval:**
+  - **Purpose:** To get final approval from the client to confirm that the documentation is complete and meets their expectations.
+  - **Tools:** Obtain approval via Google Docs or Email.
+
+## **7. Distribution and Archiving**
+- **Share Documentation:**
+  - **Purpose:** To distribute the finalized documentation to the client and team members.
+  - **Tools:** Share documents using Google Drive or Dropbox.
+- **Archive Documentation:**
+  - **Purpose:** To store the documentation in a central location for future reference.
+  - **Tools:** Use Google Drive or Dropbox for archiving.
+
+## **8. Ongoing Updates**
+- **Track Changes:**
+  - **Purpose:** To maintain version history and update documentation as needed post-delivery.
+  - **Tools:** Track changes using Google Docs or Microsoft Word.
+- **Client Communication:**
+  - **Purpose:** To keep open lines of communication with the client for any additional updates or revisions.
+  - **Tools:** Use Jira for task tracking and Email for communication.
 
 ---
 
-## **Project Under Exploration**
-
-### **1. Ezeefund Project**
-- **Timeline:** Exploration and documentation to be completed by **20th September**.
-- **Objective:**
-  - Understand the specific needs and requirements of the Ezeefund project.
-  - Develop a tailored document that aligns with their business objectives and product goals.
-- **Tasks:**
-  - Complete the exploration and finalize the document by the given date.
-  - Review the document with the client.
-- **Team:**
-  - **Manager:** Nahar
-  - **Documentation:** Samarth, [New Intern]
+### **AI Tools for Documentation**
+- **AI-Powered Document Creation:** Notion AI
+- **Automated Diagram Generation:** Diagrams.net
+- **Text Summarization and Analysis:** ChatGPT
 
 ---
 
-## **Pending Confirmation**
-
-### **1. Gas System Project**
-- **Timeline:** Documentation and Figma prototype to be completed by **20th September** (if confirmed).
-- **Objective:**
-  - Develop a detailed project document covering all aspects of the gas system.
-  - Create a Figma prototype that visualizes the user flow and design.
-- **Contingency:** Await client confirmation to proceed with documentation and prototype development.
-- **Team:**
-  - **Manager:** Nahar
-  - **Figma and Documentation:** Samarth, [New Intern]
+### **Reference Links**
+- **Google Forms Documentation:** [Google Forms Help](https://support.google.com/docs)
+- **Jira Documentation:** [Jira Software Documentation](https://support.atlassian.com/jira-software-cloud/)
+- **Google Docs:** [Google Docs Help](https://support.google.com/docs)
+- **Lucidchart:** [Lucidchart Documentation](https://www.lucidchart.com/pages/)
+- **Draw.io:** [Draw.io Documentation](https://www.draw.io/)
+- **Figma:** [Figma Help Center](https://help.figma.com/)
+- **Notion AI:** [Notion AI Overview](https://www.notion.so/)
+- **Diagrams.net:** [Diagrams.net User Guide](https://www.diagrams.net/)
 
 ---
 
-## **Internal Products (EricHost)**
-
-### **1. ATS Product Documentation**
-- **Objective:**
-  - Conduct a thorough exploration of the ATS (Applicant Tracking System) product.
-  - Create detailed documentation outlining functionalities, user flows, and technical specifications.
-- **Tasks:**
-  - **24th - 25th August:** Plan the next 7 days for this project.
-  - **31st August:** Review the documentation and make necessary updates.
-  - **1st September:** Create the next 7-day plan based on current progress.
-- **Team:**
-  - **Managers:** Nahar, Samarth
-  - **Machine Learning:** Nihar
-  - **UI:** Sandeep
-  - **Documentation:** [New Intern]
-- **Daily Standup:** Samarth will lead the daily standup meetings.
-
-### **2. OVH Flow Documentation**
-- **Objective:**
-  - Complete documentation of the OVH workflow, providing necessary details for seamless implementation and future reference.
-- **Tasks:**
-  - **24th - 25th August:** Plan the next 7 days for this project.
-  - **31st August:** Review the documentation and make necessary updates.
-  - **1st September:** Create the next 7-day plan based on current progress.
-- **Team:**
-  - **Managers:** Nahar, Samarth
-  - **Intern (PHP):** Vijay
-  - **Documentation:** [New Intern]
-- **Daily Standup:** Samarth will lead the daily standup meetings.
+### **Additional Tools**
+- **PowerPoint for Presentation:** Microsoft PowerPoint
+- **Gamma for Presentation Design:** Gamma
+- **GPT for Content Generation:** ChatGPT
+- **Notion for Documentation and Planning:** Notion
