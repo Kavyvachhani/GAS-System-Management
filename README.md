@@ -1,27 +1,27 @@
+# 2025 - Tech-Stack 
+
 ### **Frontend**
 - **HTML**
 - **CSS**
 - **JavaScript**
-- **Tailwind CSS / Bootstrap** (CSS Frameworks)
-- **React** (JavaScript library for building UI)
-- **React Query** (Data fetching library for React)
-- **React Table** (Table component for React)
-- **React Native / Flutter** (Mobile application development)
-- **Redux Toolkit** / **Jotai** (State management for React)
-- **Next.js** (React framework for server-side rendering and static site generation)
+- **Tailwind CSS / Bootstrap** 
+- **React** 
+- **React Query** 
+- **React Table** 
+- **React Native / Flutter** (After Webdevelopment)
+- **Redux Toolkit**
+- **Next.js** 
 - **10 Stack of React** (React ecosystem tools like React Router, Context API, etc.)
 
 ### **Backend**
-- **Node.js** (JavaScript runtime for server-side)
-- **Express.js** (Web framework for Node.js)
-- **MongoDB / SQL** (Databases)
-- **ORM / ODM** (e.g., Mongoose for MongoDB, Sequelize for SQL databases)
-- **Redis** (In-memory data structure store, used as a database, cache, and message broker)
-- **GraphQL** (API query language and server-side runtime)
-- **Kafka** (Distributed event streaming platform)
-- **Socket.io** (Real-time communication)
+- **Node.js** 
+- **Express.js** 
+- **MongoDB / SQL** 
+- **ORM / ODM** 
+- **Redis** 
+- **Kafka** 
 - **Firebase / Appwrite / Supabase** (Backend as a Service platforms)
-- **Remote Database** (e.g., Firebase Realtime Database, AWS RDS)
+- **Remote Database** (like. Firebase Realtime Database, AWS RDS)
 
 ### **Libraries**
 - **React Query**
@@ -30,16 +30,13 @@
 - **Socket.io**
 - **GraphQL**
 
-### **Other Tools & Technologies**
-- **Cloud Integration** (e.g., AWS, Google Cloud, Azure)
+### **Other Tools & Technologies** (Additional)
+- **Cloud Integration** (AWS, Google Cloud, Azure)
 - **DevOps** (CI/CD, monitoring, and automation)
 - **Docker** (Containerization)
-- **AWS** (Cloud services like EC2, S3, Lambda, etc.)
-- **Database** (e.g., MySQL, PostgreSQL, MongoDB)
-- **Networking** (e.g., REST APIs, WebSockets)
-- **Operating System** (e.g., Linux, Windows, macOS)
-
-### **Additional Technologies (Not in the list)**
+- **Database** (MySQL, PostgreSQL, MongoDB)
+- **Networking** (REST APIs, WebSockets)
+- **Operating System** (Linux, Windows, macOS)
 - **Version Control**: Git and GitHub/GitLab/Bitbucket
 - **Testing**: Jest, Mocha, Cypress
 - **Build Tools**: Webpack, Vite, Babel
